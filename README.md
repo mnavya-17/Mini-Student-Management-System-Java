@@ -16,7 +16,7 @@
   
 - [📝 License](#-license)
 
-- [📚 What I Learned](#what-i-learned)
+- [📚 What I Learned](#-what-i-learned)
   
 - [📈 Future Improvements](#-future-improvements)
 
